@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashlesha01
-- 👀 I’m interested in open souce programming
+- 👀 I’m interested in open source programming
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on projects related to java,c , pytthon
 - 📫 How to reach me ?
